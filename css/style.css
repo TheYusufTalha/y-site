@@ -205,16 +205,12 @@ button:visited {
 }
 
 .imageDisplay div img {
-  border-radius: 50%;
   border: 1px solid #000;
   margin: 0 auto;
   align: center;
   background-color: #0f0;
 }
 
-iframe#iframeVideo {
-  mix-blend-mode: overlay;
-}
 
 .buttonGroup {
   width: 33.3%;
